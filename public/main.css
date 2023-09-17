@@ -72,7 +72,7 @@ div.hero h2 {
 
 .maincontent-skip {
     position: absolute;
-    bottom: -610px;
+    /* bottom: -610px; */
     background-color: #4d5791;
     color: #fff;
     padding: 5px 5px;
